@@ -10,10 +10,6 @@ nav_order: 1
 
 ![article clip 1.5](/images/purchase.jpg)
 
-![article clip 2](../../images/purchase.jpg)
-
-<img src="/images/purchase.jpg" alt="article clip 3">
-
 - [cheese factories in WI, 1903](https://books.google.com/books?id=43RNAAAAMAAJ&pg=RA1-PA196&lpg=RA1-PA196&dq=dunn+county+schafer+cheese&source=bl&ots=0MXxns9xkq&sig=ACfU3U0Myau8A7vBafOhFUM82wQ1amRYVw&hl=en&sa=X&ved=2ahUKEwiHqK35hIKBAxUCmYkEHUFRAYw4ChDoAXoECAMQAw#v=onepage&q=dunn%20county%20schafer%20cheese&f=false)
 
 ![list of cheese factories](/images/cheeseFactories.png)
