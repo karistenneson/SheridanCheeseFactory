@@ -1,7 +1,7 @@
-title: COUNTRY NAME Training Template
-description: A website template for the SIG Caribbean trainings
-baseurl: "/caribbean-trainings" # the subpath of your site, e.g. /blog
-url: "https://servir-amazonia.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-logo: "/images/transparent-logos.png"
+title: Sheridan Cheese Factory
+description: A website documenting the history of the Sheridan Cheese Factory
+baseurl: "/SheridanCheeseFactory" # the subpath of your site, e.g. /blog
+url: "https://SheridanCheeseFactory.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+logo: "/images/purchase.jpg"
 
 remote_theme: just-the-docs/just-the-docs
