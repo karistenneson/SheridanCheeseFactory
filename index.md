@@ -8,7 +8,7 @@ nav_order: 1
 
 - [purchased in 1903 by J.A. Schaefer](https://www.newspapers.com/article/116854517/the-dunn-county-news/)
 
-![article clip 1](../../GitHub/SheridanCheeseFactory/images/purchase.jpg)
+![article clip 1.5](/images/purchase.jpg)
 
 ![article clip 2](../../images/purchase.jpg)
 
